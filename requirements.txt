@@ -1,5 +1,4 @@
-ruff
-mypy
 pytest
 black
-isort
+ruff
+mypy

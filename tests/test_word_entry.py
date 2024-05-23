@@ -1,5 +1,5 @@
-import pytest
 import random
+import pytest
 
 @pytest.fixture
 def random_word_entry():
